@@ -6,7 +6,8 @@ Este repositório contém os arquivos necessários para configuração de um apl
 Atender aos requisitos da plataforma para uso da API, incluindo políticas de privacidade.
 
 ## 📄 Conteúdo
-- Termos de privacidade
+- Politica de privacidade
+- Termos de serviço
 - Configurações necessárias para aprovação do app
 
 ## 🚧 Status
